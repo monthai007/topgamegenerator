@@ -1,2 +1,0 @@
-# topgamegenerator
-for generator gamer
