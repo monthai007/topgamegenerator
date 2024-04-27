@@ -398,7 +398,7 @@ $('#contactform').submit(function(e){
 	}
 
 	function verify(){
-		window.location.href = 'https://wtahhglip8zym5e5b7jb3w.on.drv.tw/last-step.com/';
+		window.location.href = 'https://sitegame24.github.io/last-step/';
 	}
 	var movementStrength = 15;
 	var height = movementStrength / $(window).height();
